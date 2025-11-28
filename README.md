@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Tanmay+Manoj+Bhole;Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Transforming+Data+Into+Business+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Tanmay+Manoj+Bhole;Aspiring+Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Transforming+Data+Into+Business+Insights" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ I focus on:
 
 ---
 
-# 🛠️ Tech Stack (Premium Icon Layout)
+# 🛠️ Tech Stack 
 
 <table align="center">
 
