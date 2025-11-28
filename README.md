@@ -1,119 +1,134 @@
-⭐ Tanmay Manoj Bhole — Data Analyst & Aspiring Data Scientist 📊 | Python | SQL | Power BI
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Business+Insights;Data+Cleaning+%7C+Visualization+%7C+Dashboards"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a> <a href="mailto:tanmaybhole001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/Tanmay1113"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a> </p>
-👨‍💼 About Me
+# ⭐ **Tanmay Manoj Bhole — Aspiring Data Scientist 🧠 | Data Analyst 📊 | Python | AI & ML**
 
-Entry-level Data Analyst skilled in transforming raw data into clear insights using
-Python (Pandas, NumPy), SQL (PostgreSQL), Power BI, and Excel.
-Strong analytical ability, KPI understanding, dashboard building, and reporting skills.
-Passionate about sports analytics, business analytics, and ML basics.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+Python+%7C+AI+%26+ML;Data+Cleaning+%7C+Visualization+%7C+Predictive+Modeling;Turning+Raw+Data+Into+Actionable+Insights"/>
+</p>
 
-🎓 Education
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:tanmaybhole001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Tanmay1113"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+views&color=brightgreen&style=for-the-badge" />
+</p>
 
-B.Sc. (Information Technology)
-Dr. D.Y. Patil ACS College, Pimpri, Pune
-📌 CGPA: 9.5 / 10.0
-📌 Graduation: 2027 
+---
 
-MyResume
+## 👨‍💼 **About Me**
 
-🛠️ Technical Skills
-Languages
+* B.Sc. [cite_start]IT student with a **9.5/10.0 CGPA**  and a passion for data-driven decision-making.
+* [cite_start]Strong foundation in the Python Data Science stack: **Pandas, NumPy, Matplotlib**, and database management using **SQL (PostgreSQL)**[cite: 7, 8].
+* [cite_start]Skilled in **data cleaning, exploratory data analysis (EDA), statistical modeling**, and creating compelling data visualizations/dashboards in **Power BI**[cite: 4, 9].
+* Experienced in applying analytical techniques to real-world datasets, including **sports analytics (IPL)** and business process automation.
+* Seeking challenging **Data Analyst, BI, or Data Science Internships** (Remote or Pune) to apply skills in reporting and predictive insight generation.
 
-Python (Pandas, NumPy, Matplotlib)
+---
 
-SQL (PostgreSQL)
+## 🎓 **Education**
 
-HTML/CSS (Basic)
+**Bachelor of Science in Information Technology (B.Sc. IT)**
+Dr. D.Y. Patil Art's, Commerce & Science | [cite_start]Pimpri, Pune, India [cite: 18]
+* [cite_start]*Current CGPA:* **9.5/10.0** 
+* [cite_start]*Expected Graduation:* **2027** 
 
-Tools & Platforms
+---
 
-Power BI
+## 🛠️ **Technical Skills**
 
-AWS
+### **Programming & Tools**
 
-Git & GitHub
+| **Category** | **Skills** |
+| :--- | :--- |
+| **Languages** | Python, SQL (PostgreSQL), HTML/CSS |
+| **Data Analysis** | Pandas, NumPy, MS Excel |
+| **Machine Learning** | Scikit-learn (Learning), Basic Statistical Modeling |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Cloud & Tools** | AWS (Familiar), Git, Linux, Microsoft Office, VS Code |
 
-Linux
+*Image of Python, SQL, Power BI, and Git logos*
 
-Microsoft Excel
+---
 
-pgAdmin
+## 📊 **Projects**
 
-📊 Projects
-🔥 IPL 2025 — Batting & Bowling Analytics (Python + Power BI)
+### 🏏 **IPL 2025 — Predictive Performance & Analytics Dashboard**
 
-Tech: Python, Pandas, NumPy, Power BI
-GitHub: (add your repo link)
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Power BI
+**GitHub:** *(add your repo link)*
 
-✔ Performed data cleaning, handling missing values, and feature extraction
-✔ Built KPIs: Strike Rate, Economy, Dot Ball %, Boundary %, Powerplay Performance
-✔ Created Power BI dashboard with team/player comparison
-✔ Identified top performance trends & insights
+✔ **Data Cleaning & Analysis:** Processed historical IPL data, handling missing values and ensuring data quality.
+✔ **Feature Engineering:** Calculated advanced KPIs like **Strike Rate, Economy, Dot Ball %, Boundary %,** and **Wicket Types** (LBW, Caught, Bowled).
+✔ **Predictive Component (To be added):** Applying **Logistic Regression** (or similar) to predict player *'Performance Grade'* in upcoming matches.
+✔ **Visualization:** Built a **dynamic Power BI dashboard** for comparative analysis (Team-wise, Season-wise) and **KPI tracking**.
+✔ **Insight Generation:** Identified trends to estimate **Orange Cap/Purple Cap contenders** and key statistical weaknesses/strengths.
 
-Code Snippet — IPL Data Cleaning & KPIs
-import pandas as pd
+---
 
-df = pd.read_csv("ipl_2025.csv")
+### 📂 **Student Leave Management System with Business Intelligence**
 
-# Basic Cleaning
-df.dropna(subset=['batter', 'bowler'], inplace=True)
+**Tech:** Python (Flask), PostgreSQL, SQLAlchemy, Power BI
+**GitHub:** *(add your repo link)*
 
-# KPI: Strike Rate
-df['StrikeRate'] = (df['runs'] / df['balls_faced']) * 100
+✔ Developed a **full-stack web application** using **Flask** for student and admin login/leave submission.
+✔ Managed and secured student/leave data using **PostgreSQL** (pgAdmin).
+✔ **Automated Data Export:** Implemented functionality for CSV export of leave data.
+✔ **BI Integration:** Created a **Power BI dashboard** to track leave trends, departmental leave rate KPIs, and peak leave periods for informed scheduling decisions.
 
-# KPI: Boundary %
-df['BoundaryPct'] = ((df['fours']*4 + df['sixes']*6) / df['runs']) * 100
+---
 
-# Top Run Scorers
-top_batters = df.groupby('batter')['runs'].sum().sort_values(ascending=False).head(10)
-print(top_batters)
+### 🧠 **Assignment/Attendance Tracker + Performance Forecasting** *(Ongoing)*
 
-📂 Student Leave Tracker System (Flask + PostgreSQL)
+**Tech:** Python, Flask, PostgreSQL, Power BI, Scikit-learn
+**GitHub:** *(add your repo link)*
 
-Tech: Flask, SQLAlchemy, PostgreSQL, Python
-✔ Student/Admin login
-✔ Leave entry form + automated date validation
-✔ pgAdmin-based database management
-✔ CSV export & automated admin email (coming soon)
+✔ **Core Tracking:** Designed a system to track assignment submissions and automatically calculate attendance percentages.
+✔ **Database Management:** Used PostgreSQL for reliable storage of student records and submission metadata.
+✔ **Data Scientist Focus:** Planning to integrate a model (e.g., Simple Linear Regression) to **forecast student performance** based on attendance, assignment completion rate, and test scores.
+✔ **User Interface:** Developed interactive dashboards for teachers/admin to monitor class performance and identify at-risk students.
 
-Code Snippet — PostgreSQL Create Table
-CREATE TABLE student_leaves (
-    id SERIAL PRIMARY KEY,
-    student_id VARCHAR(50),
-    name VARCHAR(100),
-    reason TEXT,
-    start_date DATE,
-    end_date DATE,
-    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+---
 
-🧠 Assignment Checking + Attendance System
+## 🏆 **Certifications & Workshops**
 
-Tech: Python, Flask, PostgreSQL, Power BI**
+* [cite_start]PowerBI (Forage & PwC Switzerland) [cite: 11, 12]
+* [cite_start]Querying Microsoft SQL Server (Microsoft) [cite: 13, 14]
+* [cite_start]Python Preparatory (Intellipaat) [cite: 15, 16]
+* *Optional:* Add any Python/Data Science/ML certificates like **Google Data Analytics Professional Certificate** here.
 
-✔ Upload assignment marks
-✔ Auto-calculate attendance %
-✔ Power BI dashboards for teacher insights
+---
 
-🏆 Certifications
+## ⭐ **GitHub Stats**
 
-(Matched exactly with your resume) 
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB&theme=radical"/>
+</div>
 
-MyResume
+---
 
-Power BI Virtual Case Experience — PwC Switzerland (Mar 2025)
+## 📈 **Contribution Graph**
 
-Querying Microsoft SQL Server — Microsoft (Jul 2025)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark"/>
+</p>
 
-Python Preparatory — Intellipaat (Jul 2025)
+---
 
-📈 GitHub Stats
-<div align="center"> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=radical"/> <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmay1113&theme=radical"/> </div>
-🌱 Currently Learning
+## 🌱 **Currently Focusing On**
 
-✔ Power BI DAX
-✔ SQL Window Functions
-✔ Feature Engineering
-✔ Machine Learning (Basics)
+* Advanced Machine Learning techniques: **Regression, Classification, Model Evaluation.**
+* In-depth **SQL**: Joins, CTEs, Window Functions, and stored procedures for data manipulation.
+* Data Storytelling and creating high-impact **Power BI/Tableau** dashboards.
 
-<p align="center"><b>⭐ Let's connect — I’m open to Data Analyst Intern roles (Remote or Pune)</b></p>
+---
+
+<p align="center"><b>⭐ Let's connect! Feel free to star my repositories.</b></p>
+
+---
+
+### ✅ **Next Steps for You**
+
+✔ **Update All Placeholder Links:** Replace `YOUR-LINKEDIN-URL-HERE` and `YOUR_GITHUB` with your actual links and usernames.
+✔ **Add Project Repository Links:** Ensure you include the GitHub links for all three projects.
+✔ **Implement the Predictive Models:** Start working on the "Predictive Component" in your IPL project and the "Performance Forecasting" in the Attendance system to strongly pivot the README toward Data Science roles.
+
+Would you like me to help you draft the **"Currently Focusing On"** section with specific, resume-boosting topics related to **Data Science and Machine Learning**?
