@@ -47,13 +47,14 @@
 </td></tr>
 
 <tr><td><strong>Visualization</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>&nbsp;
-
+<!-- Power BI -->
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>&nbsp;
 <!-- Seaborn -->
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/>&nbsp;
-
+<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
 <!-- Matplotlib -->
-<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/>
+<img src="https://matplotlib.org/stable/_static/images/logo2.png" width="45"/>
+
+</td></tr>
 
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
