@@ -1,7 +1,7 @@
 <h1 align="center"><strong>TANMAY MANOJ BHOLE — Aspiring Data Analyst/Scientist 📊</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Entry-level+Data+Analyst+%7C+Strong+Analytical+Skills;Python+%7C+SQL+%7C+PostgreSQL+%7C+Power+BI;Data+Cleaning+%7C+Reporting+%7C+Business+Insights"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Entry-level+Data+Analyst+%7C+Strong+Analytical+Skills;Python+%7C+SQL+%7C+PostgreSQL+%7C+Power+BI;Driving+Business+Decisions+Through+Data+Insights"/>
 </p>
 
 <p align="center">
@@ -14,101 +14,88 @@
 
 ---
 
-### 📊 About Me
-- [cite_start]Entry-level Data Analyst with strong analytical skills and practical experience in data analysis and reporting[cite: 4, 5].
-- [cite_start]Proficient in **SQL (PostgreSQL)**, **Python (Pandas, NumPy)**, **Power BI**, and data visualization[cite: 4, 7, 8, 9].
-- [cite_start]Seeking to leverage data cleaning and business insight skills to drive informed decision-making within an organization[cite: 5].
+### 💡 Professional Objective & Skills
+- [cite_start]Entry-level **Data Analyst** with strong analytical skills and practical experience in **SQL**, **Python (Pandas, NumPy)**, **PostgreSQL**, and **Power BI**[cite: 4, 7].
+- [cite_start]Focused on applying data cleaning, reporting, and business insight skills to help organizations make informed decisions[cite: 5].
+- [cite_start]**Core Skills**: Data Analysis, Database Management, Data Visualization, and Cloud Fundamentals[cite: 7, 8, 9].
 
 ---
 
 ### 🎓 Education
-- [cite_start]**Bachelor of Science (B.Sc.) in Information Technology** [cite: 18]
+- **Bachelor of Science (B.Sc.) in Information Technology**
   Dr. D.Y. Patil Art's, Commerce & Science | [cite_start]Pimpri, Pune, India [cite: 18]
   [cite_start]Expected Completion: 2027 [cite: 22]
   [cite_start]Current CGPA: 9.5/10.0 [cite: 22]
 
 ---
 
-### 💻 Coding Profiles
-<p align="left">
-    <a href="YOUR_LEETCODE_PROFILE_URL" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_HACKERRANK_PROFILE_URL" title="HackerRank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40"/>
-  </a>&nbsp;&nbsp;
-</p>
-
----
-
-### 🛠️ Core Skills & Tools
+### 🛠️ Tech Stack & Analytics Tools
 <table align="center">
-<tr><td><strong>Data Analysis</strong></td><td>
+<tr><td align="center"><strong>Programming & Analysis</strong></td><td align="center"><strong>Databases & BI</strong></td><td align="center"><strong>Tools & Platform</strong></td></tr>
+
+<tr>
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40"/></td></tr>
-
-<tr><td><strong>Database & BI</strong></td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40"/>
+</td>
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Microsoft_Power_BI.svg" title="Power BI" alt="Power BI" width="40"/></td></tr>
-
-<tr><td><strong>Tools & Cloud</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Microsoft_Power_BI.svg" title="Power BI" alt="Power BI" width="40"/>
+</td>
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo.svg/40px-Microsoft_Office_logo.svg.png" title="Microsoft Office" alt="Microsoft Office" width="40"/></td></tr>
-
-<tr><td><strong>Web Fundamentals</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40"/></td></tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40"/>
+</td>
+</tr>
 </table>
 
 ---
 
 ### 🚀 Projects
-Note: Since your resume doesn't list specific projects, I've kept the project section headers and prompts for you to fill in your relevant data analyst/scientist projects.
+Note: Please fill in your relevant Data Analyst/Scientist projects here. These sections are crucial for attracting recruiters.
 
-**📌 [PROJECT TITLE - e.g., Sales Data Analysis]**
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR-REPO-NAME)
-- Briefly describe the project (e.g., Used Python for cleaning and analyzing a sales dataset).
-- Highlight the data analysis techniques used (e.g., Employed Pandas for data manipulation and Matplotlib for visualization).
-- State the key outcome or business insight gained (e.g., Identified a 15% drop in Q3 sales due to X factor).
+**📌 [Project 1 Title - e.g., Exploratory Data Analysis of Sales Records]**
+[GitHub Link] | [Live Demo/Report Link]
+- Description of the problem and goal (e.g., Conducted a full EDA on retail sales data to identify seasonal trends and top-performing products).
+- Tools Used (e.g., Utilized **Python (Pandas)** for cleaning and **Matplotlib/Seaborn** for advanced visualizations).
+- Key Outcome (e.g., Identified an underperforming product category, leading to a suggested inventory reallocation strategy).
 
-**📌 [PROJECT TITLE - e.g., Power BI Dashboard Creation]**
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR-REPO-NAME)
-- Describe the data source and goal (e.g., Built an interactive Power BI dashboard to monitor key performance indicators (KPIs) for a marketing campaign).
-- Mention the tools used (e.g., Connected to a PostgreSQL database and transformed data using Power Query).
-- Quantify the impact (e.g., Enabled real-time tracking, leading to a 10% faster response time to performance dips).
+**📌 [Project 2 Title - e.g., Building an Interactive Power BI Dashboard]**
+[GitHub Link] | [Live Demo/Report Link]
+- Description of the data source and dashboard purpose (e.g., Created a dynamic Power BI dashboard for executive monitoring of customer churn).
+- Techniques Used (e.g., Integrated data from **PostgreSQL** and implemented complex DAX calculations for Key Performance Indicators (KPIs)).
+- Value Added (e.g., Provided daily insights that reduced the time-to-identify-risk by 50%).
 
 ---
 
-### 📃 Certifications
-- [cite_start]**PowerBI** [cite: 11] [cite_start](Forage & Pwe Switzerland [cite: 12])
-- [cite_start]**Querying Microsoft SQL Server** [cite: 13] [cite_start](Microsoft [cite: 14])
-- [cite_start]**Python Preparatory** [cite: 15] [cite_start](Intellipaat [cite: 16])
+### 📜 Certifications
+- [cite_start]**PowerBI** (Forage & Pwe Switzerland) [cite: 11, 12]
+- [cite_start]**Querying Microsoft SQL Server** (Microsoft) [cite: 13, 14]
+- [cite_start]**Python Preparatory** (Intellipaat) [cite: 15, 16]
 
 ---
 
 ### ⭐ GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=radical&utcOffset=5.5"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+</div>
+
+<div align="center">
+<br>
+  🔥 **GitHub Streak**
+  <img height="169em" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
 </div>
 
 ---
 
----
-
-### 🌱 Currently Exploring
-- Advanced Data Modeling and Predictive Analytics.
-- Developing machine learning models for business forecasting.
-- Expanding cloud proficiency with AWS data services (e.g., S3, Redshift).
+### 🌱 Future Focus
+- Advanced Data Modeling and Predictive Analytics using scikit-learn.
+- Deepening expertise in cloud infrastructure for data pipelines (AWS).
+- Exploring Data Science concepts like Machine Learning and Time-Series Analysis.
 
 ---
 
