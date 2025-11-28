@@ -15,9 +15,9 @@
 ---
 
 ### 💡 Professional Objective & Skills
-- [cite_start]Entry-level **Data Analyst** with strong analytical skills and practical experience in **SQL**, **Python (Pandas, NumPy)**, **PostgreSQL**, and **Power BI**[cite: 4, 7].
-- [cite_start]Focused on applying data cleaning, reporting, and business insight skills to help organizations make informed decisions[cite: 5].
-- [cite_start]**Core Skills**: Data Analysis, Database Management, Data Visualization, and Cloud Fundamentals[cite: 7, 8, 9].
+- [cite_start]**Entry-level Data Analyst** with strong analytical skills and practical experience in **SQL**, **Python (Pandas, NumPy)**, **PostgreSQL**, and **Power BI**[cite: 4, 7].
+- [cite_start]Focused on applying **data cleaning, reporting, and business insight skills** to help organizations make informed decisions[cite: 5].
+- [cite_start]**Core Skills**: Data Analysis [cite: 7][cite_start], Database Management [cite: 8][cite_start], Data Visualization, and Cloud Fundamentals[cite: 9].
 
 ---
 
