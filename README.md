@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:tanmaybhole001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/YOUR_GITHUB"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Tanmay1113"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
