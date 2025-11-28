@@ -1,151 +1,136 @@
-<!-- Premium Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Tanmay+Manoj+Bhole;Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
-</h1>
-
+<!-- Banner -->
 <p align="center">
-  <a href="mailto:tanmaybhole001@gmail.com">tanmaybhole001@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/tanmaybhole001">LinkedIn</a> •
-  <a href="https://github.com/Tanmay1113">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Tanmay+Manoj+Bhole;Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Transforming+Data+Into+Business+Insights" />
 </p>
 
 ---
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
-
-</div>
-
----
-
-## 🌟 About Me  
-I am a passionate **Data Analyst & Data Scientist**, skilled in Python, SQL, Power BI, and data visualization.  
-I specialize in **EDA, dashboards, automation, and extracting insights** from raw data.  
-I enjoy building end-to-end analytical systems and solving real-world business problems using data-driven approaches.
+<!-- Social Badges -->
+<p align="center">
+  <a href="mailto:tanmaybhole001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/tanmaybhole001/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Tanmay1113"><img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-# 🛠 Premium Tech Stack
+# 🌟 About Me
+I am a **Data Scientist & Data Analyst** passionate about turning raw datasets into meaningful insights through  
+data analysis, visualization, statistics, and machine learning.
+
+I focus on:
+- Data Cleaning & Wrangling  
+- Exploratory Data Analysis (EDA)  
+- Building Power BI Dashboards  
+- SQL Query Optimization  
+- End-to-End Data Projects  
+
+---
+
+# 🛠️ Tech Stack (Premium Icon Layout)
 
 <table align="center">
 
 <tr><td><strong>Languages</strong></td><td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 </td></tr>
 
 <tr><td><strong>Data Science</strong></td><td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="50"/>
 </td></tr>
 
 <tr><td><strong>Visualization</strong></td><td>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.png" width="45"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="55"/>&nbsp;
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.png" width="55"/>&nbsp;
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.png" width="55"/>
 </td></tr>
 
 <tr><td><strong>Databases</strong></td><td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
 </td></tr>
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 </td></tr>
 
 </table>
 
 ---
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
+# 🚀 Projects (Premium Cards)
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 📌 **IPL 2025 Data Analytics**
-- Full Exploratory Data Analysis in Python  
-- Player performance, orange cap predictions  
-- Power BI dashboard with insights  
-- Cleaned & transformed dataset
+### 📌 **IPL 2025 – Data Analytics Dashboard**
+- Full EDA using Python  
+- Strike-rate, run-rate, boundaries analysis  
+- Interactive Power BI dashboard  
+- Resume-ready project  
 
 ---
 
 ### 📌 **Student Attendance & Assignment Tracker**
-- Flask + PostgreSQL mini full-stack system  
-- Online attendance and assignment upload  
-- Automated CSV Export + Email Alerts
+- Flask + PostgreSQL  
+- Assignment & attendance submission  
+- CSV exports + Email automation  
 
 ---
 
-### 📌 **IP Tracker & Geo Analytics Logger**
-- Tracks IP, device, browser, geolocation  
-- Stored logs in PostgreSQL  
-- Useful for analytics & monitoring dashboards
+### 📌 **IP Tracker & Geo-Logger**
+- Tracks IP, location, browser, OS  
+- PostgreSQL logging  
+- Useful for monitoring + analytics  
 
 ---
 
-### 📌 **Crop Market Insights (PikHub Concept)**
-- Market-based crop price analytics  
-- Power BI visualization for farmers  
-- Profitability comparison charts and insights
+### 📌 **Crop Market Analysis – PikHub**
+- Farmer profit prediction  
+- Market comparison analytics  
+- Power BI visualization  
 
 ---
 
 # 🎓 Education
 **B.Sc. Information Technology (2023–2027)**  
 Dr. D.Y. Patil ACS College, Pimpri  
-CGPA: **9.5 / 10**
+**CGPA:** 9.5 / 10  
 
 ---
 
 # 📜 Certifications
-- Power BI Job Simulation — PwC Switzerland  
-- Querying Microsoft SQL Server — Microsoft  
-- Python Preparatory — Intellipaat  
+- Power BI Job Simulation — PwC  
+- Microsoft SQL Server Querying — Microsoft  
+- Python Certification — Intellipaat  
 
 ---
 
-<div align="center">
+# 📊 GitHub Analytics (Animated + Premium)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=github_dark" width="90%">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=tokyonight" height="200"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanmay1113&theme=tokyonight" height="170"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Tanmay1113&theme=tokyonight&border_radius=5" height="160">
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark" width="90%">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark&hide_border=true" width="98%"/>
+</p>
 
 ---
 
-# 📈 Currently Learning
-- Advanced SQL & Query Optimization  
-- Power BI Storytelling & Automation  
-- Data Science Pipelines  
-- Cloud Basics (AWS, Data Engineering)  
+# 🌱 Learning
+- Advanced SQL  
+- Data Pipelines  
+- Automation in BI  
+- Cloud Fundamentals (AWS)  
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
-<p align="center">Feel free to connect or explore my projects.</p>
+<p align="center"><strong>Thanks for visiting my profile!</strong><br>
+Let’s connect and build something impactful.</p>
