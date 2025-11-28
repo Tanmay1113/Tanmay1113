@@ -52,7 +52,8 @@
 <!-- Seaborn -->
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
 <!-- Matplotlib -->
-<img src="https://matplotlib.org/stable/_static/images/logo2.png" width="45"/>
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.png" width="45"/>
+
 
 </td></tr>
 
@@ -60,8 +61,12 @@
 <tr><td><strong>Tools & Cloud</strong></td><td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<!-- AWS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.png" width="45"/>&nbsp;
+
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.png" width="40"/>
+
 </td></tr>
 
 </table>
