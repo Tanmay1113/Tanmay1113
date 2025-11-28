@@ -1,22 +1,32 @@
-<h1 align="center"><strong>Tanmay Manoj Bhole</strong></h1>
-<h3 align="center">Data Scientist | Data Analyst | Python & SQL Developer</h3>
+<!-- Premium Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Tanmay+Manoj+Bhole;Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
+</h1>
 
 <p align="center">
-  <a href="mailto:tanmaybhole001@gmail.com">tanmaybhole001@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/tanmaybhole001">LinkedIn</a> • 
+  <a href="mailto:tanmaybhole001@gmail.com">tanmaybhole001@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/tanmaybhole001">LinkedIn</a> •
   <a href="https://github.com/Tanmay1113">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I am an aspiring **Data Scientist and Data Analyst** skilled in **Python, SQL, PostgreSQL, Power BI, and Data Analytics**.  
-I enjoy building **real-world data projects**, analyzing datasets, designing dashboards, and presenting insights.  
-My goal is to work on impactful analytics and data science roles that help businesses make better decisions.
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
+
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌟 About Me  
+I am a passionate **Data Analyst & Data Scientist**, skilled in Python, SQL, Power BI, and data visualization.  
+I specialize in **EDA, dashboards, automation, and extracting insights** from raw data.  
+I enjoy building end-to-end analytical systems and solving real-world business problems using data-driven approaches.
+
+---
+
+# 🛠 Premium Tech Stack
 
 <table align="center">
 
@@ -44,7 +54,7 @@ My goal is to work on impactful analytics and data science roles that help busin
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 </td></tr>
 
@@ -52,75 +62,90 @@ My goal is to work on impactful analytics and data science roles that help busin
 
 ---
 
-## 🚀 Projects
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
 
-### 📌 IPL 2025 Data Analysis
-- Python-based EDA (Pandas, NumPy)  
-- Player performance, strike rates, boundaries  
-- Power BI dashboard with interactive visuals  
-- Clean data insights and match analytics  
+</div>
 
 ---
 
-### 📌 Student Attendance & Assignment Tracker  
-- Flask + PostgreSQL backend  
-- Online attendance and assignment submission  
-- CSV export + email alerts  
-- Mini full-stack application  
+# 🚀 Featured Projects
+
+### 📌 **IPL 2025 Data Analytics**
+- Full Exploratory Data Analysis in Python  
+- Player performance, orange cap predictions  
+- Power BI dashboard with insights  
+- Cleaned & transformed dataset
 
 ---
 
-### 📌 IP Tracker & Geo-Logger  
-- Tracks IP, browser, device, geolocation  
-- Stores logs in PostgreSQL  
-- Useful for analytics and monitoring  
+### 📌 **Student Attendance & Assignment Tracker**
+- Flask + PostgreSQL mini full-stack system  
+- Online attendance and assignment upload  
+- Automated CSV Export + Email Alerts
 
 ---
 
-### 📌 Crop Market Analysis (PikHub Concept)  
-- Market price insights  
-- Demand–supply analytics  
+### 📌 **IP Tracker & Geo Analytics Logger**
+- Tracks IP, device, browser, geolocation  
+- Stored logs in PostgreSQL  
+- Useful for analytics & monitoring dashboards
+
+---
+
+### 📌 **Crop Market Insights (PikHub Concept)**
+- Market-based crop price analytics  
 - Power BI visualization for farmers  
+- Profitability comparison charts and insights
 
 ---
 
-## 🎓 Education
-**B.Sc. in Information Technology (2023–2027)**  
-Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri  
+# 🎓 Education
+**B.Sc. Information Technology (2023–2027)**  
+Dr. D.Y. Patil ACS College, Pimpri  
 CGPA: **9.5 / 10**
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 - Power BI Job Simulation — PwC Switzerland  
 - Querying Microsoft SQL Server — Microsoft  
 - Python Preparatory — Intellipaat  
 
 ---
 
-## 📊 GitHub Insights
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=tokyonight" width="90%">
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=github_dark" width="90%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanmay1113&theme=tokyonight&border_radius=5" height="160">
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark" width="90%">
-</p>
+<img src="https://streak-stats.demolab.com?user=Tanmay1113&theme=tokyonight&border_radius=5" height="160">
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark" width="90%">
+
+</div>
 
 ---
 
-## 📈 Currently Learning
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900">
+
+</div>
+
+---
+
+# 📈 Currently Learning
 - Advanced SQL & Query Optimization  
-- Data Science Project Pipelines  
-- Power BI Dashboards & Automation  
-- Cloud Basics (AWS)  
+- Power BI Storytelling & Automation  
+- Data Science Pipelines  
+- Cloud Basics (AWS, Data Engineering)  
 
 ---
 
-<p align="center"><strong>Thanks for visiting my profile!</strong></p>
-<p align="center">Feel free to connect or explore my repositories.</p>
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
+<p align="center">Feel free to connect or explore my projects.</p>
