@@ -1,9 +1,9 @@
 
 
-# ⭐ **Tanmay Manoj Bhole — Aspiring Data Scientist 📊 | Artificial Intelligence | Machine Learning | Data Science**
+# ⭐ **Tanmay Manoj Bhole — Aspiring Data Scientist 📊 | Python | AI & ML | Data Science**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Data+Cleaning+%7C+Visualization+%7C+KPI+Dashboards;Turning+Raw+Data+Into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+Python+%7C+AI+%7C+ML;Data+Cleaning+%7C+Visualization+%7C+KPI+Dashboards;Turning+Raw+Data+Into+Actionable+Insights"/>
 </p>
 
 <p align="center">
