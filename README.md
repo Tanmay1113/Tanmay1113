@@ -1,134 +1,115 @@
-# ⭐ **Tanmay Manoj Bhole — Aspiring Data Scientist 🧠 | Data Analyst 📊 | Python | AI & ML**
+<h1 align="center"><strong>TANMAY MANOJ BHOLE — Aspiring Data Analyst/Scientist 📊</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+Python+%7C+AI+%26+ML;Data+Cleaning+%7C+Visualization+%7C+Predictive+Modeling;Turning+Raw+Data+Into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Entry-level+Data+Analyst+%7C+Strong+Analytical+Skills;Python+%7C+SQL+%7C+PostgreSQL+%7C+Power+BI;Data+Cleaning+%7C+Reporting+%7C+Business+Insights"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:tanmaybhole001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/Tanmay1113"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+views&color=brightgreen&style=for-the-badge" />
+  <a href="YOUR_LINKEDIN_PROFILE_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:tanmaybhole001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+  <a href="YOUR_RESUME_DRIVE_LINK"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
+  <a href="YOUR_GITHUB_PROFILE_URL"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💼 **About Me**
-
-* B.Sc. [cite_start]IT student with a **9.5/10.0 CGPA**  and a passion for data-driven decision-making.
-* [cite_start]Strong foundation in the Python Data Science stack: **Pandas, NumPy, Matplotlib**, and database management using **SQL (PostgreSQL)**[cite: 7, 8].
-* [cite_start]Skilled in **data cleaning, exploratory data analysis (EDA), statistical modeling**, and creating compelling data visualizations/dashboards in **Power BI**[cite: 4, 9].
-* Experienced in applying analytical techniques to real-world datasets, including **sports analytics (IPL)** and business process automation.
-* Seeking challenging **Data Analyst, BI, or Data Science Internships** (Remote or Pune) to apply skills in reporting and predictive insight generation.
+### 📊 About Me
+- [cite_start]Entry-level Data Analyst with strong analytical skills and practical experience in data analysis and reporting[cite: 4, 5].
+- [cite_start]Proficient in **SQL (PostgreSQL)**, **Python (Pandas, NumPy)**, **Power BI**, and data visualization[cite: 4, 7, 8, 9].
+- [cite_start]Seeking to leverage data cleaning and business insight skills to drive informed decision-making within an organization[cite: 5].
 
 ---
 
-## 🎓 **Education**
-
-**Bachelor of Science in Information Technology (B.Sc. IT)**
-Dr. D.Y. Patil Art's, Commerce & Science | [cite_start]Pimpri, Pune, India [cite: 18]
-* [cite_start]*Current CGPA:* **9.5/10.0** 
-* [cite_start]*Expected Graduation:* **2027** 
-
----
-
-## 🛠️ **Technical Skills**
-
-### **Programming & Tools**
-
-| **Category** | **Skills** |
-| :--- | :--- |
-| **Languages** | Python, SQL (PostgreSQL), HTML/CSS |
-| **Data Analysis** | Pandas, NumPy, MS Excel |
-| **Machine Learning** | Scikit-learn (Learning), Basic Statistical Modeling |
-| **Visualization** | Power BI, Matplotlib, Seaborn |
-| **Cloud & Tools** | AWS (Familiar), Git, Linux, Microsoft Office, VS Code |
-
-*Image of Python, SQL, Power BI, and Git logos*
+### 🎓 Education
+- [cite_start]**Bachelor of Science (B.Sc.) in Information Technology** [cite: 18]
+  Dr. D.Y. Patil Art's, Commerce & Science | [cite_start]Pimpri, Pune, India [cite: 18]
+  [cite_start]Expected Completion: 2027 [cite: 22]
+  [cite_start]Current CGPA: 9.5/10.0 [cite: 22]
 
 ---
 
-## 📊 **Projects**
-
-### 🏏 **IPL 2025 — Predictive Performance & Analytics Dashboard**
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Power BI
-**GitHub:** *(add your repo link)*
-
-✔ **Data Cleaning & Analysis:** Processed historical IPL data, handling missing values and ensuring data quality.
-✔ **Feature Engineering:** Calculated advanced KPIs like **Strike Rate, Economy, Dot Ball %, Boundary %,** and **Wicket Types** (LBW, Caught, Bowled).
-✔ **Predictive Component (To be added):** Applying **Logistic Regression** (or similar) to predict player *'Performance Grade'* in upcoming matches.
-✔ **Visualization:** Built a **dynamic Power BI dashboard** for comparative analysis (Team-wise, Season-wise) and **KPI tracking**.
-✔ **Insight Generation:** Identified trends to estimate **Orange Cap/Purple Cap contenders** and key statistical weaknesses/strengths.
+### 💻 Coding Profiles
+<p align="left">
+    <a href="YOUR_LEETCODE_PROFILE_URL" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_HACKERRANK_PROFILE_URL" title="HackerRank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40"/>
+  </a>&nbsp;&nbsp;
+</p>
 
 ---
 
-### 📂 **Student Leave Management System with Business Intelligence**
+### 🛠️ Core Skills & Tools
+<table align="center">
+<tr><td><strong>Data Analysis</strong></td><td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40"/></td></tr>
 
-**Tech:** Python (Flask), PostgreSQL, SQLAlchemy, Power BI
-**GitHub:** *(add your repo link)*
+<tr><td><strong>Database & BI</strong></td><td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Microsoft_Power_BI.svg" title="Power BI" alt="Power BI" width="40"/></td></tr>
 
-✔ Developed a **full-stack web application** using **Flask** for student and admin login/leave submission.
-✔ Managed and secured student/leave data using **PostgreSQL** (pgAdmin).
-✔ **Automated Data Export:** Implemented functionality for CSV export of leave data.
-✔ **BI Integration:** Created a **Power BI dashboard** to track leave trends, departmental leave rate KPIs, and peak leave periods for informed scheduling decisions.
+<tr><td><strong>Tools & Cloud</strong></td><td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo.svg/40px-Microsoft_Office_logo.svg.png" title="Microsoft Office" alt="Microsoft Office" width="40"/></td></tr>
 
----
-
-### 🧠 **Assignment/Attendance Tracker + Performance Forecasting** *(Ongoing)*
-
-**Tech:** Python, Flask, PostgreSQL, Power BI, Scikit-learn
-**GitHub:** *(add your repo link)*
-
-✔ **Core Tracking:** Designed a system to track assignment submissions and automatically calculate attendance percentages.
-✔ **Database Management:** Used PostgreSQL for reliable storage of student records and submission metadata.
-✔ **Data Scientist Focus:** Planning to integrate a model (e.g., Simple Linear Regression) to **forecast student performance** based on attendance, assignment completion rate, and test scores.
-✔ **User Interface:** Developed interactive dashboards for teachers/admin to monitor class performance and identify at-risk students.
-
----
-
-## 🏆 **Certifications & Workshops**
-
-* [cite_start]PowerBI (Forage & PwC Switzerland) [cite: 11, 12]
-* [cite_start]Querying Microsoft SQL Server (Microsoft) [cite: 13, 14]
-* [cite_start]Python Preparatory (Intellipaat) [cite: 15, 16]
-* *Optional:* Add any Python/Data Science/ML certificates like **Google Data Analytics Professional Certificate** here.
+<tr><td><strong>Web Fundamentals</strong></td><td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40"/></td></tr>
+</table>
 
 ---
 
-## ⭐ **GitHub Stats**
+### 🚀 Projects
+Note: Since your resume doesn't list specific projects, I've kept the project section headers and prompts for you to fill in your relevant data analyst/scientist projects.
 
+**📌 [PROJECT TITLE - e.g., Sales Data Analysis]**
+[GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR-REPO-NAME)
+- Briefly describe the project (e.g., Used Python for cleaning and analyzing a sales dataset).
+- Highlight the data analysis techniques used (e.g., Employed Pandas for data manipulation and Matplotlib for visualization).
+- State the key outcome or business insight gained (e.g., Identified a 15% drop in Q3 sales due to X factor).
+
+**📌 [PROJECT TITLE - e.g., Power BI Dashboard Creation]**
+[GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR-REPO-NAME)
+- Describe the data source and goal (e.g., Built an interactive Power BI dashboard to monitor key performance indicators (KPIs) for a marketing campaign).
+- Mention the tools used (e.g., Connected to a PostgreSQL database and transformed data using Power Query).
+- Quantify the impact (e.g., Enabled real-time tracking, leading to a 10% faster response time to performance dips).
+
+---
+
+### 📃 Certifications
+- [cite_start]**PowerBI** [cite: 11] [cite_start](Forage & Pwe Switzerland [cite: 12])
+- [cite_start]**Querying Microsoft SQL Server** [cite: 13] [cite_start](Microsoft [cite: 14])
+- [cite_start]**Python Preparatory** [cite: 15] [cite_start](Intellipaat [cite: 16])
+
+---
+
+### ⭐ GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=radical&utcOffset=5.5"/>
 </div>
 
 ---
 
-## 📈 **Contribution Graph**
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark"/>
-</p>
+### 🌱 Currently Exploring
+- Advanced Data Modeling and Predictive Analytics.
+- Developing machine learning models for business forecasting.
+- Expanding cloud proficiency with AWS data services (e.g., S3, Redshift).
 
 ---
 
-## 🌱 **Currently Focusing On**
-
-* Advanced Machine Learning techniques: **Regression, Classification, Model Evaluation.**
-* In-depth **SQL**: Joins, CTEs, Window Functions, and stored procedures for data manipulation.
-* Data Storytelling and creating high-impact **Power BI/Tableau** dashboards.
-
----
-
-<p align="center"><b>⭐ Let's connect! Feel free to star my repositories.</b></p>
-
----
-
-### ✅ **Next Steps for You**
-
-✔ **Update All Placeholder Links:** Replace `YOUR-LINKEDIN-URL-HERE` and `YOUR_GITHUB` with your actual links and usernames.
-✔ **Add Project Repository Links:** Ensure you include the GitHub links for all three projects.
-✔ **Implement the Predictive Models:** Start working on the "Predictive Component" in your IPL project and the "Performance Forecasting" in the Attendance system to strongly pivot the README toward Data Science roles.
-
-Would you like me to help you draft the **"Currently Focusing On"** section with specific, resume-boosting topics related to **Data Science and Machine Learning**?
+<p align="center"><b>⭐ Show some love by starring my repos & connecting on LinkedIn!</b></p>
