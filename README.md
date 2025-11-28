@@ -23,7 +23,7 @@
 
 ### 🎓 Education
 - **B.Sc. in Information Technology**, Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri (2023–2027)  
-  **CGPA: 9.5 / 10** :contentReference[oaicite:1]{index=1}
+  **CGPA: 9.5 / 10** :contentReference[oaicite:1]
 
 ---
 
