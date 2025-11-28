@@ -10,69 +10,84 @@
 ---
 
 ## 👨‍💻 About Me
-I am an aspiring **Data Scientist and Data Analyst** with strong foundations in **Python, SQL, PostgreSQL, Power BI, and Data Analytics**.  
-I specialize in transforming raw data into meaningful insights using analytical techniques, EDA, dashboards, and reporting.  
-
-I enjoy working on **real-world projects**, solving business problems using data, and continuously improving my technical skills.
+I am an aspiring **Data Scientist and Data Analyst** skilled in **Python, SQL, PostgreSQL, Power BI, and Data Analytics**.  
+I enjoy building **real-world data projects**, analyzing datasets, designing dashboards, and presenting insights.  
+My goal is to work on impactful analytics and data science roles that help businesses make better decisions.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Programming & Data**
-- Python (Pandas, NumPy)
-- SQL (PostgreSQL, MySQL)
-- Data Cleaning, EDA, Data Wrangling
+<table align="center">
 
-### **Visualization & BI Tools**
-- Power BI (Dashboarding, DAX)
-- Matplotlib, Seaborn
+<tr><td><strong>Languages</strong></td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</td></tr>
 
-### **Tools & Cloud**
-- Git & GitHub  
-- AWS (Basics)  
-- VS Code, Jupyter Notebook  
+<tr><td><strong>Data Science</strong></td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="45"/>
+</td></tr>
 
-### **Web Technologies**
-- HTML, CSS  
-- Flask (Basics)
+<tr><td><strong>Visualization</strong></td><td>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.png" width="45"/>
+</td></tr>
+
+<tr><td><strong>Databases</strong></td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</td></tr>
+
+<tr><td><strong>Tools & Cloud</strong></td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</td></tr>
+
+</table>
 
 ---
 
 ## 🚀 Projects
 
-### **1. IPL 2025 Data Analytics**
-Comprehensive cricket analytics dashboard involving:
-- Player performance analysis  
-- Runs, strike rate, boundary stats  
-- Power BI interactive dashboard  
-- Python-based EDA  
+### 📌 IPL 2025 Data Analysis
+- Python-based EDA (Pandas, NumPy)  
+- Player performance, strike rates, boundaries  
+- Power BI dashboard with interactive visuals  
+- Clean data insights and match analytics  
 
-### **2. Student Attendance & Assignment Tracker**
-A full-stack mini-project using:
-- Flask + PostgreSQL  
-- Online attendance and assignment upload  
-- Email notifications  
-- CSV export for report generation  
+---
 
-### **3. IP Tracker & Geo-Logger**
-A Python-based logging system:
-- Tracks IP, geolocation, browser, device  
+### 📌 Student Attendance & Assignment Tracker  
+- Flask + PostgreSQL backend  
+- Online attendance and assignment submission  
+- CSV export + email alerts  
+- Mini full-stack application  
+
+---
+
+### 📌 IP Tracker & Geo-Logger  
+- Tracks IP, browser, device, geolocation  
 - Stores logs in PostgreSQL  
-- Useful for system monitoring / analytics  
+- Useful for analytics and monitoring  
 
-### **4. Crop Market Analysis (PikHub Concept)**
-Data-driven model for farmers to:
-- Compare crop selling prices  
-- Analyze demand vs supply  
-- Visualize profitability via Power BI  
+---
+
+### 📌 Crop Market Analysis (PikHub Concept)  
+- Market price insights  
+- Demand–supply analytics  
+- Power BI visualization for farmers  
 
 ---
 
 ## 🎓 Education
-**B.Sc. Information Technology**  
+**B.Sc. in Information Technology (2023–2027)**  
 Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri  
-**CGPA: 9.5 / 10**
+CGPA: **9.5 / 10**
 
 ---
 
@@ -100,12 +115,12 @@ Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri
 ---
 
 ## 📈 Currently Learning
-- Advanced SQL + Query Optimization  
-- Power BI Reporting & Storytelling  
-- End-to-End Data Science Project Structure  
-- Cloud Basics for Data Engineering  
+- Advanced SQL & Query Optimization  
+- Data Science Project Pipelines  
+- Power BI Dashboards & Automation  
+- Cloud Basics (AWS)  
 
 ---
 
 <p align="center"><strong>Thanks for visiting my profile!</strong></p>
-<p align="center">Feel free to connect or check out my projects.</p>
+<p align="center">Feel free to connect or explore my repositories.</p>
