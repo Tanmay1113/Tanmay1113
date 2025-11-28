@@ -48,8 +48,8 @@
 
 <tr><td><strong>Visualization</strong></td><td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
-</td></tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>&nbsp;
+<img src="[https://avatars.githubusercontent.com/u/22799945?s=280&v=4](https://www.google.com/imgres?q=seaborn.svg" width="40"/>
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
