@@ -14,94 +14,100 @@
 ---
 
 ### 👨‍💻 About Me
-- Aspiring **Data Scientist & Data Analyst** with strong foundations in Python, SQL, PostgreSQL, and Power BI.
-- Skilled in **data cleaning, EDA, dashboarding, SQL querying, reporting, and business insights**.
-- Building end-to-end projects using **Python (Pandas, NumPy), PostgreSQL, Flask**, and cloud tools.
-- Passionate about **solving real-world problems using data**.
+- Aspiring **Data Scientist & Data Analyst** with strong foundations in Python, SQL, PostgreSQL & Power BI.
+- Experience in **data cleaning, EDA, dashboards, analytics, and reporting**.
+- Skilled in **Python (Pandas, NumPy), SQL, and Power BI storytelling**.
+- Passionate about solving **business problems using data**.
 
 ---
 
-### 🎓 Education
-- **B.Sc. in Information Technology**, Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri (2023–2027)  
-  **CGPA: 9.5 / 10** :contentReference[oaicite:1]
+## 🛠️ Tech Stack & Skills
 
----
-
-### 🛠️ Tech Stack & Skills
 <table align="center">
 
 <tr><td><strong>Languages</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </td></tr>
 
 <tr><td><strong>Data Science</strong></td><td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-</td></tr>
-
-<tr><td><strong>Databases</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 </td></tr>
 
 <tr><td><strong>Visualization</strong></td><td>
+
 <!-- Power BI -->
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>&nbsp;
+
 <!-- Seaborn -->
-<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
+
 <!-- Matplotlib -->
 <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.png" width="45"/>
+
 </td></tr>
 
+<tr><td><strong>Databases</strong></td><td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</td></tr>
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>&nbsp;
+
 <!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="55"/>&nbsp;
+
 <!-- VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.png" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.png" width="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</td></tr>
+
+</table>
 
 ---
 
-### 🚀 Top Projects (Data Science & Data Analytics)
+## 🚀 Top Projects
 
-**📌 IPL 2025 Data Analytics Project**  
-➡ Dashboard + EDA + Top Scorers + Bowlers Analysis  
-➡ Power BI + Python + CSV Dataset  
-➡ Predictive insights (Runs, Strike Rates, Boundaries)
+### 📌 **IPL 2025 Full Data Analysis**
+- Complete EDA with Python  
+- Strike rate, run rate, top scorers  
+- Power BI analytics dashboard  
 
-**📌 Student Attendance & Assignment Tracker**  
-➡ Flask + PostgreSQL + Python  
-➡ Online submission + CSV export + Email alerts
+### 📌 **Student Attendance & Assignment Tracker**
+- Flask + PostgreSQL backend  
+- Leave/assignment submission portal  
+- CSV export + automated email alerts  
 
-**📌 Crop-Analysis Dashboard for Farmers (PikHub Concept)**  
-➡ Data visualization + Profit prediction for crops  
-➡ Helps farmers get better market prices
+### 📌 **IP Tracker & Geo-Logger**
+- Python + APIs  
+- Logs IP, location, device & browser  
+- PostgreSQL storage + dashboard-ready output  
 
-**📌 IP Tracker & Geo-Logger**  
-➡ Python + APIs + Logging + PostgreSQL  
-➡ Tracks IP, Location, Browser, Device
-
----
-
-### 🏆 Achievements
-- Completed multiple industry-backed certifications (Microsoft, PwC, Intellipaat) :contentReference[oaicite:2]{index=2}  
-- Built 10+ personal & academic projects in **Python, SQL, and Power BI**  
-- Strong academic performance (**CGPA 9.5**) :contentReference[oaicite:3]{index=3}  
+### 📌 **Crop Analytics Dashboard (PikHub Idea)**
+- Farmer profit prediction  
+- Market comparison analytics  
+- Power BI dashboard  
 
 ---
 
-### 📃 Certifications
-- **Power BI Job Simulation — PwC Switzerland** (Mar 2025)  
-- **Querying Microsoft SQL Server — Microsoft** (2025)  
-- **Python Preparatory — Intellipaat** (2025)
+## 🎓 Education
+**B.Sc. Information Technology (2023–2027)**  
+Dr. D.Y. Patil ACS College, Pimpri  
+CGPA: **9.5 / 10**
 
 ---
 
-### ⭐ GitHub Stats
+## 📃 Certifications
+- Power BI Job Simulation — PwC Switzerland  
+- Querying Microsoft SQL Server — Microsoft  
+- Python Preparatory — Intellipaat  
+
+---
+
+## ⭐ GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=radical"/>
   <br/>
@@ -114,14 +120,14 @@
 
 ---
 
-🔥 **GitHub Streak**
+## 🔥 GitHub Streak
 <div align="center">
   <img height="169em" src="https://streak-stats.demolab.com/?user=Tanmay1113&theme=radical"/>
 </div>
 
 ---
 
-📈 **Contribution Graph**
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark"/>
 </p>
@@ -130,10 +136,10 @@
 
 ### 🌱 Currently Exploring
 - Advanced SQL + Data Warehousing  
-- End-to-end Data Science Projects  
-- Cloud + Data Engineering basics  
-- Power BI Automation & Storytelling  
+- Power BI Automation  
+- Python End-to-End DS Projects  
+- Cloud + Analytics Engineering  
 
 ---
 
-<p align="center"><b>⭐ Show support by starring my repos & connecting with me on LinkedIn!</b></p>
+<p align="center"><b>⭐ Show some love by starring my repositories & connecting on LinkedIn!</b></p>
