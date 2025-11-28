@@ -1,145 +1,111 @@
-<h1 align="center"><strong>Tanmay Manoj Bhole — Aspiring Data Scientist & Data Analyst 📊</strong></h1>
+<h1 align="center"><strong>Tanmay Manoj Bhole</strong></h1>
+<h3 align="center">Data Scientist | Data Analyst | Python & SQL Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Actionable+Insights"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanmaybhole001"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:tanmaybhole001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://github.com/Tanmay1113"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Tanmay1113?label=Follow&style=for-the-badge"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tanmay1113&label=Profile+views&color=brightgreen&style=for-the-badge" />
+  <a href="mailto:tanmaybhole001@gmail.com">tanmaybhole001@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/tanmaybhole001">LinkedIn</a> • 
+  <a href="https://github.com/Tanmay1113">GitHub</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- Aspiring **Data Scientist & Data Analyst** with strong foundations in Python, SQL, PostgreSQL & Power BI.
-- Experience in **data cleaning, EDA, dashboards, analytics, and reporting**.
-- Skilled in **Python (Pandas, NumPy), SQL, and Power BI storytelling**.
-- Passionate about solving **business problems using data**.
+## 👨‍💻 About Me
+I am an aspiring **Data Scientist and Data Analyst** with strong foundations in **Python, SQL, PostgreSQL, Power BI, and Data Analytics**.  
+I specialize in transforming raw data into meaningful insights using analytical techniques, EDA, dashboards, and reporting.  
+
+I enjoy working on **real-world projects**, solving business problems using data, and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
-<table align="center">
+### **Programming & Data**
+- Python (Pandas, NumPy)
+- SQL (PostgreSQL, MySQL)
+- Data Cleaning, EDA, Data Wrangling
 
-<tr><td><strong>Languages</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</td></tr>
+### **Visualization & BI Tools**
+- Power BI (Dashboarding, DAX)
+- Matplotlib, Seaborn
 
-<tr><td><strong>Data Science</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-</td></tr>
+### **Tools & Cloud**
+- Git & GitHub  
+- AWS (Basics)  
+- VS Code, Jupyter Notebook  
 
-<tr><td><strong>Visualization</strong></td><td>
-
-<!-- Power BI -->
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>&nbsp;
-
-<!-- Seaborn -->
-<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.png" width="45"/>&nbsp;
-
-<!-- Matplotlib -->
-<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.png" width="45"/>
-
-</td></tr>
-
-<tr><td><strong>Databases</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</td></tr>
-
-<tr><td><strong>Tools & Cloud</strong></td><td>
-
-<!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="55"/>&nbsp;
-
-<!-- VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.png" width="40"/>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</td></tr>
-
-</table>
+### **Web Technologies**
+- HTML, CSS  
+- Flask (Basics)
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Projects
 
-### 📌 **IPL 2025 Full Data Analysis**
-- Complete EDA with Python  
-- Strike rate, run rate, top scorers  
-- Power BI analytics dashboard  
+### **1. IPL 2025 Data Analytics**
+Comprehensive cricket analytics dashboard involving:
+- Player performance analysis  
+- Runs, strike rate, boundary stats  
+- Power BI interactive dashboard  
+- Python-based EDA  
 
-### 📌 **Student Attendance & Assignment Tracker**
-- Flask + PostgreSQL backend  
-- Leave/assignment submission portal  
-- CSV export + automated email alerts  
+### **2. Student Attendance & Assignment Tracker**
+A full-stack mini-project using:
+- Flask + PostgreSQL  
+- Online attendance and assignment upload  
+- Email notifications  
+- CSV export for report generation  
 
-### 📌 **IP Tracker & Geo-Logger**
-- Python + APIs  
-- Logs IP, location, device & browser  
-- PostgreSQL storage + dashboard-ready output  
+### **3. IP Tracker & Geo-Logger**
+A Python-based logging system:
+- Tracks IP, geolocation, browser, device  
+- Stores logs in PostgreSQL  
+- Useful for system monitoring / analytics  
 
-### 📌 **Crop Analytics Dashboard (PikHub Idea)**
-- Farmer profit prediction  
-- Market comparison analytics  
-- Power BI dashboard  
+### **4. Crop Market Analysis (PikHub Concept)**
+Data-driven model for farmers to:
+- Compare crop selling prices  
+- Analyze demand vs supply  
+- Visualize profitability via Power BI  
 
 ---
 
 ## 🎓 Education
-**B.Sc. Information Technology (2023–2027)**  
-Dr. D.Y. Patil ACS College, Pimpri  
-CGPA: **9.5 / 10**
+**B.Sc. Information Technology**  
+Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri  
+**CGPA: 9.5 / 10**
 
 ---
 
-## 📃 Certifications
+## 📜 Certifications
 - Power BI Job Simulation — PwC Switzerland  
 - Querying Microsoft SQL Server — Microsoft  
 - Python Preparatory — Intellipaat  
 
 ---
 
-## ⭐ GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmay1113&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanmay1113&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanmay1113&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanmay1113&theme=radical&utcOffset=8"/>
-</div>
+## 📊 GitHub Insights
 
----
-
-## 🔥 GitHub Streak
-<div align="center">
-  <img height="169em" src="https://streak-stats.demolab.com/?user=Tanmay1113&theme=radical"/>
-</div>
-
----
-
-## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1113&theme=tokyonight" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanmay1113&theme=tokyonight&border_radius=5" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1113&theme=react-dark" width="90%">
 </p>
 
 ---
 
-### 🌱 Currently Exploring
-- Advanced SQL + Data Warehousing  
-- Power BI Automation  
-- Python End-to-End DS Projects  
-- Cloud + Analytics Engineering  
+## 📈 Currently Learning
+- Advanced SQL + Query Optimization  
+- Power BI Reporting & Storytelling  
+- End-to-End Data Science Project Structure  
+- Cloud Basics for Data Engineering  
 
 ---
 
-<p align="center"><b>⭐ Show some love by starring my repositories & connecting on LinkedIn!</b></p>
+<p align="center"><strong>Thanks for visiting my profile!</strong></p>
+<p align="center">Feel free to connect or check out my projects.</p>
