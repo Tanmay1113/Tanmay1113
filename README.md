@@ -27,22 +27,13 @@ I focus on driving business value by applying skills in:
 # 🛠️ Tech Stack 
 
 <table align="center">
-<# 🛠️ Tech Stack 
-
-<table align="center">
-# 🛠️ Tech Stack 
-
-<table align="center">
 <tr><td><strong>Languages</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-</td></tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>&nbsp;</td></tr>
 
 <tr><td><strong>Data Science & ML</strong></td><td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>&nbsp;
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-notext.png" width="50" alt="Scikit-learn"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/faiss.svg" width="50" alt="FAISS"/> 
 </td></tr>
 
 <tr><td><strong>Visualization</strong></td><td>
@@ -52,9 +43,7 @@ I focus on driving business value by applying skills in:
 </td></tr>
 
 <tr><td><strong>Databases</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL"/>
-</td></tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL"/>&nbsp;</td></tr>
 
 <tr><td><strong>Tools & Cloud</strong></td><td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" alt="AWS"/>&nbsp;
