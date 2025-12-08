@@ -27,6 +27,9 @@ I focus on driving business value by applying skills in:
 # 🛠️ Tech Stack 
 
 <table align="center">
+<# 🛠️ Tech Stack 
+
+<table align="center">
 <tr><td><strong>Languages</strong></td><td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
@@ -56,7 +59,6 @@ I focus on driving business value by applying skills in:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
 </td></tr>
 </table>
-
 ---
 
 # 🚀 Projects 
