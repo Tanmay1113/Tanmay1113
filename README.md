@@ -13,7 +13,7 @@
 ---
 
 ## 💡 About Me: Passionate Foundation Builder
-I am a dedicated fresher with a **strong academic foundation (CGPA: 9.5/10)** and a passion for applying **Machine Learning** and **Deep Learning** principles to solve real-world problems. I thrive on translating complex data into actionable insights and robust model prototypes.
+I am a dedicated fresher with a **strong academic foundation (SGPA: 9.1/10)** and a passion for applying **Machine Learning** and **Deep Learning** principles to solve real-world problems. I thrive on translating complex data into actionable insights and robust model prototypes.
 
 My core strengths lie in:
 * **Deep Learning Fundamentals:** Understanding and implementing architectures (CNNs, Transformers) using **PyTorch**.
@@ -79,7 +79,7 @@ My core strengths lie in:
 ## 🎓 Education & Certifications
 ### **B.Sc. Information Technology (2023–2027)**
 * Dr. D.Y. Patil ACS College, Pimpri
-* **CGPA: 9.5 / 10** (Strong Academic Performance)
+* **Current SGPA: 9.1 / 10** (Strong Academic Performance)
 
 ### **Top Certifications**
 * **Power BI Job Simulation** — PwC
