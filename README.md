@@ -65,32 +65,13 @@ I focus on:
 
 # 🚀 Projects (Premium Cards)
 
-### 📌 **IPL 2025 – Data Analytics Dashboard**
-- Full EDA using Python  
-- Strike-rate, run-rate, boundaries analysis  
-- Interactive Power BI dashboard  
-- Resume-ready project  
+### 🛍️ Visual Product Similarity Search & Personalized Recommendation System
 
----
+- **Full EDA using Python** (category distribution, metadata quality, image availability)
+- **Embedding analysis** using CLIP (image), Sentence-BERT (text), and hybrid vectors
+- **Interactive dashboard** showcasing product patterns & similarity relationships
+- **Ready ML project** with CV + NLP + FAISS vector search + recommendation engine
 
-### 📌 **Student Attendance & Assignment Tracker**
-- Flask + PostgreSQL  
-- Assignment & attendance submission  
-- CSV exports + Email automation  
-
----
-
-### 📌 **IP Tracker & Geo-Logger**
-- Tracks IP, location, browser, OS  
-- PostgreSQL logging  
-- Useful for monitoring + analytics  
-
----
-
-### 📌 **Crop Market Analysis – PikHub**
-- Farmer profit prediction  
-- Market comparison analytics  
-- Power BI visualization  
 
 ---
 
