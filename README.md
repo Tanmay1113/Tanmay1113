@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:tanmaybhole001@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaybhole001-FF4500?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/tanmaybhole001/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/tanmaybhole/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Tanmay1113"><img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github" /></a>
 </p>
 
