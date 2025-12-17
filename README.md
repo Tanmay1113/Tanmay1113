@@ -69,7 +69,7 @@ I enjoy working on **real-world problem statements**, especially in areas involv
 <tr>
     <td align="center"><strong>Visualization & BI</strong></td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55" alt="Power BI"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" alt="Power BI"/>
         <img src="https://img.shields.io/badge/Tableau-DataViz-E97627?style=flat&logo=tableau&logoColor=white"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
     </td>
