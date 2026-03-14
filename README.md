@@ -19,10 +19,10 @@
 ```python
 tanmay = {
     "name"       : "Tanmay Manoj Bhole",
-    "degree"     : "B.Sc. Information Technology (Honors)",
+    "degree"     : "B.Sc. Information Technology",
     "college"    : "DY Patil ACS College, Pune",
     "university" : "Savitribai Phule Pune University",
-    "sgpa"       : 9.1,
+    "sgpa"       : 9.1 (3rd Sem),
     "focus"      : ["Machine Learning", "Deep Learning", "Data Science", "GenAI"],
     "building"   : "End-to-end ML pipelines → data to deployment",
     "open_to"    : ["Internships", "Collaborations", "Entry-level DS/ML roles"],
