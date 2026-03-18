@@ -136,9 +136,9 @@ tanmay = {
 
 ```
 🏫  Dr. D. Y. Patil Arts, Commerce & Science College, Pune
-🎓  B.Sc. Information Technology (Honors)
+🎓  B.Sc. Information Technology
 🏛️  Savitribai Phule Pune University
-📅  2023 – 2027 (Expected)
+📅  2024 – 2027 
 ⭐  Current SGPA: 9.1 / 10.0
 
 📚  Relevant Coursework:
