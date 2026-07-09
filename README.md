@@ -146,6 +146,9 @@ tanmay = {
      Cloud Computing • OOP • Python • Networking
 ```
 
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/uIxAhO1aX9?theme=dark&font=Karma&ext=heatmap)
 ---
 
 ## 🌱 Currently Learning
